@@ -1,0 +1,123 @@
+*{
+margin: 0;
+}
+header,main{
+    background-color: #655858;
+}
+header{
+    display:flex;
+align-items: center;
+padding: 20px;
+}
+nav{
+    display:flex;
+    justify-content:flex-end;
+
+}
+a{
+    position: relative;
+    left:870px;
+    margin-right: 57px;
+    font-size:26px;
+    color:black;
+    text-decoration: none;
+}
+header>h1{
+    font-size: 78px;
+}
+.page{
+    font-size: 32px;
+    background-color: rgba(217, 217, 217, 1);
+    padding: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius:159px;
+}
+.the>img{
+    width: 500px;
+    height: auto;
+    position: relative;
+    left:585px;
+    margin:40px;
+    border-radius:59px;
+
+}
+.the>p{
+    font-size: 50px;
+    position: relative;
+    left:680px;
+}
+.wether{
+     width: 300px;
+    height: 340px;
+    position: relative;
+    left: 100px;
+    margin:40px;
+    border-radius:59px;
+}
+.the>p{
+    font-size: 50px;
+    position: relative;
+    left:680px;
+}
+
+.per{
+    font-size: 10px;
+    position: absolute;
+    left: 350px;
+    bottom: -790px;
+}
+.women{
+    width: 450px;
+    height: 707px;
+    position: relative;
+    left: 1000px;
+    margin:40px;
+    border-radius:59px;
+    bottom: 450px;
+}
+.name{
+    font-size: 20px;
+    position: absolute;
+    left: 1240px;
+    bottom: -1140px;
+}
+.ssd{
+    font-size: 24px;
+    background-color: rgba(217, 217, 217, 1);
+    padding: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius:159px;
+    width: 650px;
+    bottom: 790px;
+    position: relative;
+    left:100px;
+}
+.End{
+    font-size: 30px;
+    background-color: rgba(217, 217, 217, 1);
+    padding: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius:159px;
+    width: 1000px;
+    bottom: 650px;
+    position: relative;
+    left:300px;
+}
+.foot{
+    font-size: 36px;
+    background-color: rgba(148, 74, 74, 1);
+    height: 100px;
+    margin: 0;
+}
+main{
+    height: 2300px;
+}
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
